@@ -100,5 +100,5 @@ def predict_real_image(image_path):
     plt.show()
 
 if __name__ == '__main__':
-    predict_real_image('banknote_reg/10.jpg')
+    predict_real_image('banknote_reg/50.jpg')
 
